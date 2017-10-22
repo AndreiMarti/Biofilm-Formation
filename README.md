@@ -1,6 +1,6 @@
 # MATLAB Fall 2017 – Research Plan (Template)
 
-> * Group Name: Bioformers
+> * Group Name: Bioformers.
 > * Group participants names: Bretones Santamarina, Jorge; Marti Andrei; Timo.
 > * Project Title: Quorum Sensing and Biofilm formation.
 
